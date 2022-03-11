@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wafna
-- 👀 I’m interested in Scala, React, SQL
-- 🌱 I’m currently learning Doobie and Typed Akka
+- 👀 I’m interested in Kotlin, React, SQL
+- 🌱 I’m currently learning Kotlin coroutines.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
